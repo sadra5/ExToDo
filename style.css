@@ -1,0 +1,23 @@
+html , body {
+    width: 100vw;
+    height: 100vh;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.h-66 {
+    height: 66%;
+}
+.w- {
+    width: 33rem;
+}
+.w-25rem {
+   width: 2.5rem; 
+}
+.w-37 {
+    width: 37%;
+}
